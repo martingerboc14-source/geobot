@@ -1,0 +1,1000 @@
+Paris
+Berlin
+Rome
+Madrid
+Lisbon
+Amsterdam
+Brussels
+Bern
+Vienna
+Warsaw
+Prague
+Bratislava
+Budapest
+Bucharest
+Sofia
+Athens
+Zagreb
+Ljubljana
+Belgrade
+Sarajevo
+Podgorica
+Tirana
+Skopje
+Pristina
+Oslo
+Stockholm
+Helsinki
+Copenhagen
+Reykjavik
+Dublin
+London
+Tallinn
+Riga
+Vilnius
+Kyiv
+Chisinau
+Minsk
+Moscow
+Ankara
+Tbilisi
+Yerevan
+Baku
+Nicosia
+Valletta
+Luxembourg
+Vaduz
+Monaco
+San Marino
+Vatican City
+Andorra la Vella
+Rabat
+Algiers
+Tunis
+Tripoli
+Cairo
+Khartoum
+Addis Ababa
+Nairobi
+Dodoma
+Kampala
+Kigali
+Gitega
+Mogadishu
+Djibouti
+Asmara
+Juba
+N'Djamena
+Niamey
+Bamako
+Nouakchott
+Dakar
+Banjul
+Conakry
+Freetown
+Monrovia
+Yamoussoukro
+Accra
+Lome
+Porto-Novo
+Abuja
+Yaounde
+Bangui
+Malabo
+Libreville
+Brazzaville
+Kinshasa
+Luanda
+Lusaka
+Harare
+Gaborone
+Windhoek
+Pretoria
+Maseru
+Mbabane
+Maputo
+Antananarivo
+Victoria
+Port Louis
+Moroni
+Praia
+Sao Tome
+Ouagadougou
+Bissau
+Washington, D.C.
+Ottawa
+Mexico City
+Guatemala City
+Belmopan
+Tegucigalpa
+San Salvador
+Managua
+San Jose
+Panama City
+Havana
+Kingston
+Port-au-Prince
+Santo Domingo
+Nassau
+Bridgetown
+Port of Spain
+Saint John's
+Roseau
+Saint George's
+Basseterre
+Castries
+Kingstown
+Bogota
+Caracas
+Georgetown
+Paramaribo
+Quito
+Lima
+Sucre
+Santiago
+Buenos Aires
+Montevideo
+Asuncion
+Brasilia
+Beijing
+Tokyo
+Seoul
+Pyongyang
+Ulaanbaatar
+New Delhi
+Islamabad
+Dhaka
+Sri Jayawardenepura Kotte
+Kathmandu
+Thimphu
+Male
+Kabul
+Tehran
+Baghdad
+Damascus
+Beirut
+Amman
+Jerusalem
+Riyadh
+Sanaa
+Muscat
+Abu Dhabi
+Doha
+Manama
+Kuwait City
+Astana
+Tashkent
+Ashgabat
+Bishkek
+Dushanbe
+Bangkok
+Hanoi
+Vientiane
+Phnom Penh
+Naypyidaw
+Kuala Lumpur
+Singapore
+Jakarta
+Manila
+Bandar Seri Begawan
+Dili
+Canberra
+Wellington
+Port Moresby
+Suva
+Apia
+Nuku'alofa
+Port Vila
+Honiara
+South Tarawa
+Funafuti
+Yaren
+Ngerulmud
+Majuro
+Palikir
+Africa
+South America
+Asia
+Australia
+Europe
+North America
+Indian Ocean
+Atlantic Ocean
+Atlantic Ocean
+Pacific Ocean
+Indian Ocean
+Pacific Ocean
+Mediterranean Sea
+Black Sea
+Adriatic Sea
+Norwegian Sea
+Red Sea
+Persian Gulf
+Bay of Bengal
+Gulf of Mexico
+Strait of Gibraltar
+Bering Strait
+Strait of Gibraltar
+Suez Canal
+Panama Canal
+Ural Mountains
+Pyrenees
+Andes
+Himalayas
+Alps
+Sahara Desert
+Gobi Desert
+Kalahari Desert
+Atacama Desert
+Arabian Desert
+Nile River
+River Thames
+Seine River
+Danube River
+Tigris River
+Euphrates River
+Rio Grande
+Amazon River
+Nile River
+Yangtze River
+Moskva River
+Tiber River
+Vltava River
+Danube River
+Lake Victoria
+Lake Baikal
+Lake Superior
+Lake Titicaca
+Caspian Sea
+Sri Lanka
+Iceland
+Greenland
+Australia
+Spain
+Haiti
+Dominican Republic
+Mount Everest
+Mount Kilimanjaro
+Mount Elbrus
+Aconcagua
+Denali
+Vinson Massif
+Pacific Ocean
+Arctic Ocean
+Asia
+Australia
+Nigeria
+Russia
+Vatican City
+Brazil
+Algeria
+Canada
+Volga River
+Mississippi-Missouri River system
+Angel Falls
+Sahara Desert
+Antarctica
+Atacama Desert
+Great Barrier Reef
+Arabian Peninsula
+Indonesia
+Sicily
+Cuba
+Istanbul
+La Paz
+Antarctica
+Arctic Ocean
+Dead Sea shore
+Bay of Bengal
+Gulf of Mexico
+Lake Maracaibo
+Lake Ladoga
+Caspian Sea
+Lake Superior
+Challenger Deep
+Mariana Trench
+Mount Etna
+Ojos del Salado
+Amazon Rainforest
+Congo Rainforest
+Tibetan Plateau
+Tibetan Plateau
+Ganges-Brahmaputra Delta
+Amazon River
+Equator
+Prime Meridian
+About 23.5 degrees north
+About 23.5 degrees south
+Arctic Circle
+Antarctic Circle
+Peninsula
+Archipelago
+Isthmus
+Strait
+Delta
+Watershed
+Magma
+Lava
+Valley
+Plateau
+Polder
+Monsoon
+Conurbation
+Urbanization
+Erosion
+Deposition
+Political map
+Physical map
+Topographic map
+Weather map
+Population map
+Legend
+Scale
+Latitude
+Longitude
+Geographic Information System
+Physical geography
+Human geography
+Cartography
+Climatology
+Geomorphology
+Oceanography
+Pedology
+Biome
+Grassland
+Tundra
+Taiga
+Desert
+Tropical rainforest
+Tropical zone
+Temperate zone
+Polar zone
+Climate
+Weather
+Glacier
+Desertification
+Deforestation
+Reforestation
+Irrigation
+Subsistence farming
+Commercial farming
+Population
+Population density
+Migration
+Emigration
+Immigration
+Megacity
+Census
+Natural increase
+Life expectancy
+Death rate
+Birth rate
+India
+Peru
+Egypt
+Italy
+Jordan
+Cambodia
+United Kingdom
+France
+Greece
+Japan
+Tanzania
+Australia
+Ecuador
+Australia
+Tanzania
+South Africa
+Canada
+United States
+Chile
+Mexico
+Brazil
+Turkey
+United Arab Emirates
+China
+United States
+Spain
+Germany
+South Africa
+Zambia and Zimbabwe
+Canada and the United States
+Argentina and Brazil
+Slovenia
+Switzerland and Italy
+France and Italy
+Pakistan and China
+Jordan and Israel
+Israel
+Greece
+United Kingdom
+Ireland
+Spain
+Turkey
+Italy
+Italy
+Australia
+Indonesia
+Vietnam
+South Korea
+Kenya
+Botswana
+Canada
+Japan
+Germany
+Italy
+Poland
+Egypt
+Morocco
+South Africa
+Nigeria
+Brazil
+Colombia
+Mexico
+Australia
+New Zealand
+Thailand
+Vietnam
+Morocco
+Japan
+Germany
+Portugal
+Spain
+France
+Italy
+Belgium
+Norway
+Sweden
+Finland
+Croatia
+Romania
+Bulgaria
+Greece
+Czech Republic
+Slovakia
+Hungary
+Ukraine
+Georgia
+Azerbaijan
+Iran
+Iraq
+Saudi Arabia
+Oman
+Qatar
+Pakistan
+India
+Bangladesh
+Sri Lanka
+Nepal
+Myanmar
+Vietnam
+Philippines
+Indonesia
+Malaysia
+Australia
+Spain
+France
+Italy
+Netherlands
+Belgium
+Switzerland
+Austria
+Poland
+Serbia
+Bosnia and Herzegovina
+Iran
+Syria
+Jordan
+Saudi Arabia
+Oman
+Kazakhstan
+Uzbekistan
+Uzbekistan
+Norway
+Sweden
+Ireland
+United Kingdom
+Canada
+Colombia
+Chile
+Argentina
+Peru
+Peru
+Bolivia
+Brazil
+Brazil
+Jamaica
+Japan
+South Korea
+Andorra
+Luxembourg
+Slovakia
+Nepal
+Poland
+Uruguay
+Ecuador
+Uganda
+Libya
+Iraq
+Yemen
+Cambodia
+Thailand
+Netherlands
+Slovenia
+Austria
+Bulgaria
+Finland
+Latvia
+Pakistan
+Tajikistan
+Kyrgyzstan
+China
+Kenya
+Zambia
+Zimbabwe
+Eswatini
+Lesotho
+San Marino
+Vatican City
+Colorado River
+Yangtze River
+Yamuna River
+Chao Phraya River
+Han River
+Nile River
+Tagus River
+Garonne River
+Elbe River
+Vistula River
+Danube River
+Sava River
+Ljubljanica River
+Miljacka River
+Vardar River
+Iskar River
+Dambovita River
+Daugava River
+Elbe River
+Rhine River
+Main River
+Danube River
+Danube River
+Danube River
+Potomac River
+Mississippi River
+Allegheny and Monongahela rivers
+Willamette River
+Rio de la Plata
+Tietê River
+Amazon River
+Congo River
+Nile River
+Moskva River
+Neva River
+Oresund
+River Liffey
+River Clyde
+River Mersey
+River Thames
+Aegean Sea
+Tasman Sea
+Timor Sea
+Yellow Sea
+South China Sea
+Bothnian Sea
+Kattegat
+Black Sea
+Aegean Sea
+Galapagos Islands
+Azores
+Canary Islands
+Orkney Islands
+Faroe Islands
+Seychelles
+Mauritius
+Malta
+Cyprus
+Fiji
+Hawaii
+Argentina and Chile
+Finland, Sweden, Norway, and Russia
+Romania
+Spain
+Italy
+Germany
+France
+Spain
+Belgium
+Belgium
+Canada
+Australia
+Russia
+Turkey
+Turkey
+Italy
+Italy
+France
+Spain
+Portugal
+Croatia
+Czech Republic
+Czech Republic
+Poland and Czech Republic
+Denmark
+United Kingdom
+United Kingdom
+United Kingdom
+France
+Italy
+India and Bangladesh
+Ontario
+Quebec
+British Columbia
+Alberta
+Manitoba
+Nova Scotia
+New South Wales
+Victoria
+Queensland
+Western Australia
+South Australia
+Tasmania
+California
+Florida
+Texas
+Washington
+Illinois
+Massachusetts
+Nevada
+Arizona
+Colorado
+Georgia
+Oregon
+Minnesota
+Tennessee
+Louisiana
+Bavaria
+Hamburg
+North Rhine-Westphalia
+Tuscany
+Campania
+Veneto
+Catalonia
+Andalusia
+Valencian Community
+Japan
+Finland
+South Africa
+Ireland
+Venice
+New York City
+Rome
+Chicago
+Paris
+Cape Town
+Venice
+Budapest
+Manila
+Singapore
+Singapore
+Denver
+St. Louis
+Amsterdam
+Beijing
+Sydney
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Europe
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+North America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+Oceania
+France
+Germany
+Italy
+Spain
+Portugal
+Netherlands
+Belgium
+Switzerland
+Austria
+Poland
+Czech Republic
+Slovakia
+Hungary
+Romania
+Bulgaria
+Greece
+Croatia
+Slovenia
+Serbia
+Bosnia and Herzegovina
+Montenegro
+Albania
+North Macedonia
+Kosovo
+Norway
+Sweden
+Finland
+Denmark
+Iceland
+Ireland
+United Kingdom
+Estonia
+Latvia
+Lithuania
+Ukraine
+Moldova
+Belarus
+Russia
+Turkey
+Georgia
+Armenia
+Azerbaijan
+Cyprus
+Malta
+Luxembourg
+Liechtenstein
+Monaco
+San Marino
+Vatican City
+Andorra
+Morocco
+Algeria
+Tunisia
+Libya
+Egypt
+Sudan
+Ethiopia
+Kenya
+Tanzania
+Uganda
+Rwanda
+Burundi
+Somalia
+Djibouti
+Eritrea
+South Sudan
+Chad
+Niger
+Mali
+Mauritania
+Senegal
+Gambia
+Guinea
+Sierra Leone
+Liberia
+Ivory Coast
+Ghana
+Togo
+Benin
+Nigeria
+Cameroon
+Central African Republic
+Equatorial Guinea
+Gabon
+Republic of the Congo
+Democratic Republic of the Congo
+Angola
+Zambia
+Zimbabwe
+Botswana
+Namibia
+South Africa
+Lesotho
+Eswatini
+Mozambique
+Madagascar
+Seychelles
+Mauritius
+Comoros
+Cape Verde
+Sao Tome and Principe
+Burkina Faso
+Guinea-Bissau
+United States
+Canada
+Mexico
+Guatemala
+Belize
+Honduras
+El Salvador
+Nicaragua
+Costa Rica
+Panama
+Cuba
+Jamaica
+Haiti
+Dominican Republic
+Bahamas
+Barbados
+Trinidad and Tobago
+Antigua and Barbuda
+Dominica
+Grenada
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Colombia
+Venezuela
+Guyana
+Suriname
+Ecuador
+Peru
+Bolivia
+Chile
+Argentina
+Uruguay
+Paraguay
+Brazil
+China
+Japan
+South Korea
+North Korea
+Mongolia
+India
+Pakistan
+Bangladesh
+Sri Lanka
+Nepal
+Bhutan
+Maldives
+Afghanistan
+Iran
+Iraq
+Syria
+Lebanon
+Jordan
+Israel
+Saudi Arabia
+Yemen
+Oman
+United Arab Emirates
+Qatar
+Bahrain
+Kuwait
+Kazakhstan
+Uzbekistan
+Turkmenistan
+Kyrgyzstan
+Tajikistan
+Thailand
+Vietnam
+Laos
+Cambodia
+Myanmar
+Malaysia
+Singapore
+Indonesia
+Philippines
